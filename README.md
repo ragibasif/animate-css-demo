@@ -1,1 +1,1 @@
-# animate-css-demo
+# Animate.css Demo
